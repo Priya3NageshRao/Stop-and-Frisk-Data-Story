@@ -1,1 +1,1 @@
-Stop-and-Frisk-Data-Story - A data visulaization Approach
+Project Title- Stop and Frisk Data Story - A data visualization Approach
